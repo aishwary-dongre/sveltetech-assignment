@@ -6,7 +6,7 @@ const AuthContext = createContext<AuthContextType | null>(null);
 
 
 const MOCK_CREDENTIALS = {
-  email: 'admin@gmail.com',
+  email: 'admin@example.com',
   password: 'admin123'
 };
 
