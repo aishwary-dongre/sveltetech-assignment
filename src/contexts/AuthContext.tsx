@@ -4,9 +4,9 @@ import { User, AuthContextType, LoginResult, SessionData } from '../types/auth.t
 
 const AuthContext = createContext<AuthContextType | null>(null);
 
-// Mock credentials (in a real app, this would be validated against a backend)
+
 const MOCK_CREDENTIALS = {
-  email: 'admin@example.com',
+  email: 'admin@gmail.com',
   password: 'admin123'
 };
 
