@@ -5,7 +5,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-3.3.6-38B2AC?style=flat&logo=tailwind-css)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-An Admin dashboard I built using React and TypeScript. It's got user authentication, a complete user management system, and a dark mode that actually looks good.
+An admin dashboard I built using React and TypeScript. It's got user authentication, a complete user management system, and responsive design throughout..
 
 ## What's Inside
 
